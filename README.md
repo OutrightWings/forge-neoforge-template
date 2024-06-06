@@ -18,3 +18,6 @@ Modding Resources:
 * Basic Modding Tutorial: https://moddingtutorials.org/
 
 * Events: http://jabelarminecraft.blogspot.com/p/minecraft-forge-172-event-handling.html
+
+* Rotation Math: https://www.andre-gaschler.com/rotationconverter/
+* Modeling: https://web.blockbench.net/
