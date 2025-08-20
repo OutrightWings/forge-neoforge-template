@@ -14,6 +14,7 @@ Modding Resources:
 * Searge Names: https://mcp.thiakil.com/#/search
 * Forge Wiki: https://forge.gemwire.uk/wiki/Main_Page
 * Other Forge Wiki: https://docs.minecraftforge.net/en/1.19.x/
+* neoforge wiki: https://docs.neoforged.net/docs/gettingstarted/
   
 * Basic Modding Tutorial: https://moddingtutorials.org/
 
